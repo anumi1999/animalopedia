@@ -44,7 +44,7 @@
     transition: 0.5s;
 }
 .navbar ul li:hover{
-    background: orange;
+    background: #fffafa ;
 }
 a {
     color: white;
@@ -53,7 +53,7 @@ a {
 /*ADDING Text Modification */
 body 
 {
-    background-color: orange;
+    background-color: #fffafa;
 }
 h1{
     font-family: Candara; 
