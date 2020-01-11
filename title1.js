@@ -10,7 +10,6 @@ window.onscroll = function(){
         check.style.background= "transperant";
         check.style.opacity = 0;
         hd.style.height = '500px';
-        //hd.style.backgroundImage = "none";
         navbar.style.opacity= 1;
         text.style.display = 'block';
 
