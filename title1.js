@@ -1,13 +1,14 @@
 var nav = document.getElementById('tpp');
 var check = document.getElementById('scrn');
 var hd = document.getElementById('headd');
+var top = document.getElementById('nav')
 window.onscroll = function(){
-    if (window.pageYOffset > 200){
+    if (window.pageYOffset > 300){
         nav.style.background = "black";
         nav.style.opacity = 1;
         check.style.background= "transperant";
         check.style.opacity = 0;
-        hd.style.backgroundImage = "none";
+        hd.style.backgroundImage = "transperant";
     }
     else if (window.pageYOffset > 20){
         check.style.background = "black";
