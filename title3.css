@@ -4,7 +4,7 @@
 .header{
     width: 100% ;
     height: 700px;
-    background-image: url('1000x-1.jpg');
+    background-image: url('parrot.jpg');
     background-size: cover;
 }
 .topbar{
@@ -45,19 +45,17 @@
     transition: 0.5s;
 }
 .navbar ul li:hover{
-    background: #93E7FB;
+    background:#068BC2 ;
 }
 a {
     color: white;
     text-decoration: unset;
 }
-a:hover{
-    color: blue;
-}
+
 /*ADDING Text Modification */
 body 
 {
-    background-color: #93E7FB;
+    background-color:#068BC2;
 }
 h1{
     font-family: Candara; 
