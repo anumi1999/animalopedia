@@ -87,10 +87,12 @@ h3
 .side_info
 {
     float:right ;
-    width:15%;
+    width:16%;
+    padding: 10px 0px;
 }
 .side_info_left
 {
     float:left ;
     width:84% ;
+    padding:10px 20px ;
 }

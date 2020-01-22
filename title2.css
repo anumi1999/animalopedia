@@ -45,19 +45,19 @@
     transition: 0.5s;
 }
 .navbar ul li:hover{
-    background: #93E7FB;
+    background: #fffafa ;
 }
 a {
     color: white;
     text-decoration: unset;
 }
-a:hover{
+.navbar ul li:hover a{
     color: blue;
 }
 /*ADDING Text Modification */
 body 
 {
-    background-color: #93E7FB;
+    background-color: #fffafa;
 }
 h1{
     font-family: Candara; 
@@ -90,9 +90,11 @@ h3
 {
     float:right ;
     width:15%;
+    padding: 10px 0px;
 }
 .side_info_left
 {
     float:left ;
     width:84% ;
+    padding: 10px 20px;
 }
