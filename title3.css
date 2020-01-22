@@ -88,9 +88,11 @@ h3
 {
     float:right ;
     width:15%;
+    padding: 10px 0px;
 }
 .side_info_left
 {
     float:left ;
     width:84% ;
+    padding: 10px 20px;
 }
