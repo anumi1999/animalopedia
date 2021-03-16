@@ -1,4 +1,4 @@
-# animalopedia
+# Animalopedia
 Name: Safari 
 
 Animalopedia is a website that acts as an encyclopedia for animals. The websites provides an holistic overview to animal kingdom. It consists of animal pages for 10 animals along with some cool javascript games and a image classifier for animals.
